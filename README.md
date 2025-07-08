@@ -1,7 +1,6 @@
-# SEO-Blogs-Post-Creation-Tool-
-Scrap products , automate the Research of SEO keywords 
+# High-level to low-level Architecture Pipeline 
+Converting high-level business requirements into low-level technical specifications 
 import os
-import zipfile
 
 # Define project details
 project_name = "High-Level-to-Low-Level-Architecture-Tool"
